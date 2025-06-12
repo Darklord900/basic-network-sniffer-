@@ -1,4 +1,4 @@
-# basic-network-sniffer-
+
 
 # Network Packet Sniffer
 
@@ -30,6 +30,6 @@ Run the sniffer with Python (requires admin privileges):
 
 #sudo python3 sniffer.py
 
-Contributing
+##Contributing
 
 Pull requests are welcome! For major changes, open an issue first.
